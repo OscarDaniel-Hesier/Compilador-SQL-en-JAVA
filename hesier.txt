@@ -1,0 +1,1 @@
+Create database upam, insert into Upam values('s1','ford','mty', 23,58.42), update Upam values('s2','koenisegg','mty',68,13);
